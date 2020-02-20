@@ -1,4 +1,4 @@
-*Callbacks
+*Callbacks*
 
     Ventajas
 
@@ -9,7 +9,7 @@ CompatibilidadLos Callbacks son funciones que no necesitan convertir tu código 
     Desventajas
 Entre las principales desventajas podemos encontrar que disponen de una estructura que puedellegar a ser robusta, más cuando anidamos llamadas a otras funciones, su flujo se puede volverpoco intuitivo lo cual nos hará no comprender claramente su estructura.Manejo de Errores, con los Callbacks no tenemos un camino claro para manejar los errores locual se traduce en problemas a la hora de manejar la lógica de nuestro programa.
 
-*Promesas
+*Promesas*
 
     Ventajas
 Flujo fluido
@@ -22,7 +22,7 @@ Las promesas nos proporcionan un forma clara de manejar errores, una sintaxis se
 PolyFill
 Las promesas no son compatibles con todos los navegadores, si bien los navegadoresmodernos pueden interpretar sin problema alguno, navegadores como internet explorer 11necesitan transpilar el código para que funcionen correctamente.
 
-*Async/Await
+*Async/Await*
 
     Ventajas
 Sintaxis
